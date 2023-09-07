@@ -11,4 +11,8 @@ public class class4migrating {
     public void commit2(){
 
     }
+
+    public void commit4(){
+
+    }
 }
