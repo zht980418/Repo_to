@@ -8,4 +8,7 @@ public class class4migrating {
     public class4migrating(){
 
     }
+    public void commit2(){
+
+    }
 }
